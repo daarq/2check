@@ -1,5 +1,5 @@
 ﻿# 2check
 Author: Rafał Walczak
-Since: 04.2017 year
+Since: 04.2017
 
-Simple game in JavaScript. Work in progress.
+Simple game made in HTML/JavaScript. Work in progress.
